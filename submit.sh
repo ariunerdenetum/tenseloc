@@ -26,7 +26,7 @@ PYTHON_EXE=$DATADIR/venv/bin/python3
 test -x "$PYTHON_EXE" || { echo >&2 "Python executable not found at $PYTHON_EXE"; exit 5; }
 
 # Export your HF token so transformers can authenticate
-export HF_TOKEN="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"
+export HF_TOKEN="..."
 
 JSON_PATH="$SCRATCHDIR/causal_prompts/$LANG_FILE"
 

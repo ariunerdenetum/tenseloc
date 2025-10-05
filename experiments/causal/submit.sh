@@ -15,7 +15,7 @@ module load cuda python/3.10
 source ../venv/bin/activate
 
 # Export your HF token so transformers can authenticate
-export HF_TOKEN="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"
+export HF_TOKEN="..."
 
 echo "Working directory is: $(pwd)"
 echo "Listing contents:" ls -R .

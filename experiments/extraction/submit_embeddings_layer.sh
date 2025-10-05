@@ -15,7 +15,7 @@ module load cuda python/3.10
 source ./venv/bin/activate
 
 # Export your HF token so transformers can authenticate
-export HF_TOKEN="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"
+export HF_TOKEN="..."
 
 # Loop over layer indices
 for LAYER in 0 1; do

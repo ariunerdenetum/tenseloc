@@ -15,7 +15,7 @@ module load cuda python/3.10
 source ~/venv/bin/activate
 
 # Export your HF token so transformers can authenticate
-export HF_TOKEN="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"
+export HF_TOKEN="..."
 
 # Run the embedding script
 python run_embeddings.py \
