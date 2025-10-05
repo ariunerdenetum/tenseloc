@@ -1,0 +1,31 @@
+# Deep Learning Frameworks
+torch>=1.10.0
+transformers>=4.0.0
+
+# Data Processing
+# numpy<2.0
+numpy==1.23.5
+pandas
+accelerate
+autopep8
+
+# NLP & Syntactic Analysis
+# datasets
+# spacy
+conllu
+
+# Machine Learning & Evaluation
+scikit-learn
+sae-lens
+pyvene
+PatternLite
+functools
+mlconjug3
+
+# Visualization
+matplotlib
+seaborn
+
+# Additional utilities
+pyyaml
+jupyterlab
