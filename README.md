@@ -1,4 +1,4 @@
-# mi-tense
+# TenseLoC: Tense Localization and Control in a Multilingual LLM
 
 ## Overview
 
